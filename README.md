@@ -2,7 +2,7 @@
 
 Machine Learning mid-term project: analysing **100,000 computers** (desktops and laptops) to understand what drives price, which computers are overpriced or underpriced, and how price segments (Low / Medium / High) can be predicted from specs.
 
-🔗 **Live dashboard:** `https://YOUR-USERNAME.github.io/computer-prices-analysis/`
+🔗 **Live dashboard:** `https://daniairfan1812.github.io/computer-prices-analysis/`
 
 ## 📌 Business Problems
 
