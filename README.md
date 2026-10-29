@@ -30,7 +30,7 @@ Machine Learning mid-term project: analysing **100,000 computers** (desktops and
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/computer-prices-analysis.git
+git clone https://github.com/daniairfan1812/computer-prices-analysis.git
 cd computer-prices-analysis
 pip install -r requirements.txt
 jupyter notebook Mid_Term_Computer_Final_Simple.ipynb
@@ -43,4 +43,4 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook, HTML/Chart.
 ## 👤 Author
 
 **DANIA IRFAN** · Business Data Analytics, COMSATS University Islamabad
-[LinkedIn](https://linkedin.com/in/daniairfan1812) · [GitHub](https://github.com/daniairfan1812)
+[LinkedIn](https://linkedin.com/in/daniairfan) · [GitHub](https://github.com/daniairfan1812)
