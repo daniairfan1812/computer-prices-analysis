@@ -42,5 +42,5 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook, HTML/Chart.
 
 ## 👤 Author
 
-**YOUR NAME** · Business Data Analytics, COMSATS University Islamabad
-[LinkedIn](https://linkedin.com/in/YOUR-PROFILE) · [GitHub](https://github.com/YOUR-USERNAME)
+**DANIA IRFAN** · Business Data Analytics, COMSATS University Islamabad
+[LinkedIn](https://linkedin.com/in/daniairfan1812) · [GitHub](https://github.com/daniairfan1812)
